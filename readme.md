@@ -14,4 +14,5 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 
 ## Alumnos
 
-- ?
+-Fabricio Dominguez
+-?
